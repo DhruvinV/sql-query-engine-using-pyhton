@@ -5,4 +5,4 @@ This program reads from CSV file and create a table.
 SQL-Engine is the main program which runs the query 
 Sample  query synatax includes 
 select * from (table headers) where table data.
-This is project is nearly 3 years old. I am starting to add more commands to improve and support more functionality. 
+This is project is nearly 2 years old. I am starting to add more commands to improve and support more functionality. 
